@@ -13,7 +13,7 @@ wtl_analysis_system/
 ├── database_manager.py    # Database operations
 ├── main.py               # Main orchestrator
 
-1. Prerequisites
+# 1. Prerequisites
 
 Python 3.8 or higher
 MySQL Server 8.0+ (optional, only if using database features)
@@ -30,16 +30,15 @@ pythonDB_CONFIG = {
 Update path of the excel file in config.py accordingly:
 EXCEL_FILE_PATH = r'C:\Users\arjun\Downloads\WTL Design Jr. Analyst Task.xlsx'
 
-# Run complete analysis
+# Run complete analysis or Specify custom Excel file
 python main.py
 
-# Specify custom Excel file
 python main.py --excel "path/to/your/file.xlsx"
 
 Run analysis and store in database:
 python main.py --use-db
 
-Output Files
+# Output Files
 Visualizations (HTML)
 Located in visualizations/ directory:
 
