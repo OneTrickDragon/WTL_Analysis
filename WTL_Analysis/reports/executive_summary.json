@@ -1,0 +1,41 @@
+{
+  "generated_at": "2025-06-30T15:25:57.177689",
+  "overview": {
+    "total_revenue": 619126504.9702953,
+    "total_cost": 569212102.062396,
+    "total_profit": 49914402.90789939,
+    "average_profit_margin": 8.062068496048994,
+    "profitable_projects_count": 142,
+    "loss_making_projects_count": 68,
+    "break_even_projects_count": 0
+  },
+  "key_findings": {
+    "top_performer": {
+      "project_code": "GS240047-BJ16",
+      "project_name": "金尚意思特设计施工项目",
+      "profit": 31964707.78999999,
+      "margin": 19.452524084813337
+    },
+    "biggest_concern": {
+      "project_code": "GS240036-BJ12",
+      "project_name": "正午阳光办公室设计施工项目",
+      "loss": -10358363.330384616,
+      "margin": -99.3106185578426
+    },
+    "most_efficient_department": "内审部",
+    "project_success_rate": 12.903225806451612
+  },
+  "financial_highlights": {
+    "total_work_hours": 11005.3,
+    "average_project_size": 2948221.4522395013,
+    "total_labor_cost": 891563.5096153845,
+    "labor_cost_percentage": 0.15663115847063505
+  },
+  "recommendations": [
+    "Focus resources on high-efficiency projects",
+    "Review and optimize loss-making projects",
+    "Improve project status tracking for ISS projects",
+    "Standardize project code formats across departments",
+    "Implement real-time cost monitoring"
+  ]
+}

@@ -1,0 +1,64 @@
+================================================================================
+DEPARTMENT PERFORMANCE REPORT
+================================================================================
+Generated: 2025-06-30 15:25:57
+
+DEPARTMENT RANKINGS
+========================================
+
+By Total Hours Worked:
+------------------------------
+1. 业务部Tina: 3,342 hours
+2. 预算部: 3,037 hours
+3. 深化部: 2,744 hours
+4. 机电部: 2,413 hours
+5. IT部: 2,306 hours
+6. 设计2部: 1,854 hours
+7. 设计3部: 1,710 hours
+8. 设计4部: 1,420 hours
+9. 设计1部: 1,232 hours
+10. 私宅部: 948 hours
+11. 采购部: 738 hours
+12. 业务部Lina: 510 hours
+13. 景观部: 378 hours
+14. 内审部: 299 hours
+
+By Number of Projects:
+------------------------------
+1. 预算部: 138.0 projects
+2. IT部: 90.0 projects
+3. 机电部: 59.0 projects
+4. 采购部: 40.0 projects
+5. 业务部Lina: 30.0 projects
+6. 深化部: 30.0 projects
+7. 业务部Tina: 29.0 projects
+8. 设计3部: 25.0 projects
+9. 设计2部: 24.0 projects
+10. 内审部: 20.0 projects
+11. 设计4部: 14.0 projects
+12. 景观部: 13.0 projects
+13. 私宅部: 12.0 projects
+14. 设计1部: 11.0 projects
+
+By Labor Cost Efficiency (Cost per Hour):
+------------------------------
+1. 采购部: ¥37.50/hour
+2. 业务部Lina: ¥38.70/hour
+3. 内审部: ¥38.70/hour
+4. 业务部Tina: ¥38.70/hour
+5. 深化部: ¥38.70/hour
+6. 机电部: ¥38.70/hour
+7. 私宅部: ¥38.70/hour
+8. 景观部: ¥38.70/hour
+9. 预算部: ¥38.70/hour
+10. 设计1部: ¥38.70/hour
+11. 设计4部: ¥38.70/hour
+12. 设计2部: ¥38.70/hour
+13. 设计3部: ¥38.70/hour
+14. IT部: ¥40.87/hour
+
+================================================================================
+DEPARTMENT COLLABORATION ANALYSIS
+================================================================================
+
+(Department collaboration matrix requires detailed analysis)

@@ -1,0 +1,231 @@
+================================================================================
+WTL DESIGN Q3 20X2 FINANCIAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-06-30 15:25:57
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+Total Revenue: ¥619,126,504.97
+Total Cost: ¥569,212,102.06
+Total Profit: ¥49,914,402.91
+Average Profit Margin: 8.06%
+Total Projects Analyzed: 210
+  - Profitable: 142
+  - Loss-making: 68
+  - Break-even: 0
+
+================================================================================
+PROJECT PERFORMANCE ANALYSIS
+================================================================================
+
+TOP 10 PROFITABLE PROJECTS:
+----------------------------------------
+GS240047-BJ16: ¥31,964,707.79 (Margin: 19.5%, Hours: 0)
+GS240057-BJ23: ¥14,183,031.08 (Margin: 96.7%, Hours: 102)
+GS240048-BJ17: ¥3,071,493.98 (Margin: 86.4%, Hours: 0)
+GS240071-GD05: ¥2,572,682.57 (Margin: 19.6%, Hours: 1,584)
+GS240056-BJ22: ¥1,994,109.63 (Margin: 14.5%, Hours: 368)
+GS240037-HB02: ¥1,629,911.85 (Margin: 23.7%, Hours: 129)
+GS230079-BJ11: ¥1,372,399.99 (Margin: 19.7%, Hours: 29)
+ISS24047-BJ03: ¥919,506.55 (Margin: 69.4%, Hours: 0)
+GS240013-SH01: ¥891,609.18 (Margin: 19.9%, Hours: 8)
+GS240033-CD02: ¥792,577.85 (Margin: 5.0%, Hours: 0)
+
+SIGNIFICANT LOSS-MAKING PROJECTS:
+----------------------------------------
+GS240036-BJ12: ¥-10,358,363.33 (Margin: -99.3%)
+GS240052-SD02: ¥-9,744,008.29 (Margin: -200.0%)
+GS240019-BJ03: ¥-2,336,094.23 (Margin: -200.0%)
+ISS24046-SZ03: ¥-1,546,078.55 (Margin: -200.0%)
+ISS24004-CD01: ¥-1,456,957.41 (Margin: -18.4%)
+ISS24040-XA03: ¥-601,084.80 (Margin: -200.0%)
+GS240045-BJ15: ¥-464,207.61 (Margin: -1.6%)
+ISS24116-SH07: ¥-301,486.34 (Margin: -9.1%)
+ISS24110-XA07: ¥-219,094.69 (Margin: -15.0%)
+ISS24003-HZ01: ¥-186,405.89 (Margin: -20.2%)
+
+================================================================================
+EFFICIENCY ANALYSIS
+================================================================================
+
+Average Efficiency Score: -2402.27
+Median Efficiency Score: 0.00
+Standard Deviation: 156175.54
+
+Efficiency Percentiles:
+  25th: 0.00
+  50th: 0.00
+  75th: 850.60
+  90th: 5113.42
+
+================================================================================
+DEPARTMENT ANALYSIS
+================================================================================
+
+业务部Tina:
+  Total Hours: 3,342
+  Total Labor Cost: ¥129,341.83
+  Projects Involved: 29.0
+  Average Hours per Project: 115.2
+  Hourly Rate: ¥38.70
+
+预算部:
+  Total Hours: 3,037
+  Total Labor Cost: ¥117,537.74
+  Projects Involved: 138.0
+  Average Hours per Project: 22.0
+  Hourly Rate: ¥38.70
+
+深化部:
+  Total Hours: 2,744
+  Total Labor Cost: ¥106,198.08
+  Projects Involved: 30.0
+  Average Hours per Project: 91.5
+  Hourly Rate: ¥38.70
+
+IT部:
+  Total Hours: 2,306
+  Total Labor Cost: ¥94,235.58
+  Projects Involved: 90.0
+  Average Hours per Project: 25.6
+  Hourly Rate: ¥40.87
+
+机电部:
+  Total Hours: 2,413
+  Total Labor Cost: ¥93,387.74
+  Projects Involved: 59.0
+  Average Hours per Project: 40.9
+  Hourly Rate: ¥38.70
+
+设计2部:
+  Total Hours: 1,854
+  Total Labor Cost: ¥71,753.37
+  Projects Involved: 24.0
+  Average Hours per Project: 77.2
+  Hourly Rate: ¥38.70
+
+设计3部:
+  Total Hours: 1,710
+  Total Labor Cost: ¥66,160.94
+  Projects Involved: 25.0
+  Average Hours per Project: 68.4
+  Hourly Rate: ¥38.70
+
+设计4部:
+  Total Hours: 1,420
+  Total Labor Cost: ¥54,956.73
+  Projects Involved: 14.0
+  Average Hours per Project: 101.4
+  Hourly Rate: ¥38.70
+
+设计1部:
+  Total Hours: 1,232
+  Total Labor Cost: ¥47,680.77
+  Projects Involved: 11.0
+  Average Hours per Project: 112.0
+  Hourly Rate: ¥38.70
+
+私宅部:
+  Total Hours: 948
+  Total Labor Cost: ¥36,670.07
+  Projects Involved: 12.0
+  Average Hours per Project: 79.0
+  Hourly Rate: ¥38.70
+
+采购部:
+  Total Hours: 738
+  Total Labor Cost: ¥27,693.75
+  Projects Involved: 40.0
+  Average Hours per Project: 18.5
+  Hourly Rate: ¥37.50
+
+业务部Lina:
+  Total Hours: 510
+  Total Labor Cost: ¥19,745.72
+  Projects Involved: 30.0
+  Average Hours per Project: 17.0
+  Hourly Rate: ¥38.70
+
+景观部:
+  Total Hours: 378
+  Total Labor Cost: ¥14,629.33
+  Projects Involved: 13.0
+  Average Hours per Project: 29.1
+  Hourly Rate: ¥38.70
+
+内审部:
+  Total Hours: 299
+  Total Labor Cost: ¥11,571.87
+  Projects Involved: 20.0
+  Average Hours per Project: 14.9
+  Hourly Rate: ¥38.70
+
+================================================================================
+PROJECT TYPE COMPARISON
+================================================================================
+
+GS Projects:
+  Count: 62.0
+  Total Revenue: ¥547,002,029.43
+  Total Profit: ¥50,543,211.44
+  Average Profit Margin: 3.26%
+  Average Efficiency: -4187.90
+
+ISS Projects:
+  Count: 148.0
+  Total Revenue: ¥72,124,475.54
+  Total Profit: ¥-628,808.53
+  Average Profit Margin: -3.16%
+  Average Efficiency: -1654.23
+
+================================================================================
+GS PROJECT STATUS ANALYSIS
+================================================================================
+
+Fail:
+  Projects: 1
+  Total Profit: ¥792,577.85
+  Average Profit: ¥792,577.85
+  Average Margin: 5.00%
+
+In Progress:
+  Projects: 46
+  Total Profit: ¥60,456,811.07
+  Average Profit: ¥1,314,278.50
+  Average Margin: 7.44%
+
+Negotiation:
+  Projects: 7
+  Total Profit: ¥-13,691,685.02
+  Average Profit: ¥-1,955,955.00
+  Average Margin: -27.77%
+
+Success:
+  Projects: 8
+  Total Profit: ¥2,985,507.54
+  Average Profit: ¥373,188.44
+  Average Margin: 6.11%
+
+================================================================================
+LIMITATIONS AND ASSUMPTIONS
+================================================================================
+
+1. Data Quality:
+   - Some project codes in work hours may not match project records
+   - ISS projects lack status information
+   - Some projects may have incomplete data
+
+2. Financial Assumptions:
+   - Department salaries are synthetic estimates
+   - Hourly rates calculated based on 2080 work hours/year
+   - Overhead costs and indirect expenses not included
+   - Exchange rates and inflation not considered
+
+3. Temporal Constraints:
+   - Analysis covers Q3 20X2 only
+   - Some projects may be ongoing with incomplete costs
+   - Seasonal variations not captured
+
+================================================================================
