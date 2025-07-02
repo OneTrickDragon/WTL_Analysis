@@ -5,14 +5,14 @@ This comprehensive financial analysis system processes WTL Design's Q3 20X2 data
 System Architecture
 The WTL Financial Analysis System is built with a modular architecture consisting of:
 wtl_analysis_system/
-├── config.py              # Configuration and constants
-├── data_loader.py         # Excel data loading
-├── data_processor.py      # Data processing and calculations
-├── visualizer.py          # Visualization generation
-├── report_generator.py    # Report generation
-├── database_manager.py    # Database operations
-├── main.py               # Main orchestrator
-
+├── config.py              # Configuration and constants  
+├── data_loader.py         # Excel data loading  
+├── data_processor.py      # Data processing and calculations  
+├── visualizer.py          # Visualization generation  
+├── report_generator.py    # Report generation            
+├── database_manager.py    # Database operations        
+├── main.py               # Main orchestrator   
+ 
 # 1. Prerequisites
 
 Python 3.8 or higher
