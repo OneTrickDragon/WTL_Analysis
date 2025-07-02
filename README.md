@@ -3,8 +3,7 @@ Overview
 This comprehensive financial analysis system processes WTL Design's Q3 20X2 data to provide insights into project profitability, department efficiency, and resource allocation. The system includes automated data processing, MySQL database integration, and advanced visualization capabilities.
 
 System Architecture
-The WTL Financial Analysis System is built with a modular architecture consisting of:
-wtl_analysis_system/
+WTL_Analysis/  
 ├── config.py              # Configuration and constants  
 ├── data_loader.py         # Excel data loading  
 ├── data_processor.py      # Data processing and calculations  
